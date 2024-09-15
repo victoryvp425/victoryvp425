@@ -2,15 +2,15 @@
 ## Tech Stack
 
 ### Web Dev
-✔️ Frontend
+- Frontend
 React, Vue, Typescript, Javascript, Next.js, Bootstrap, MUI, Metronic UI, semantic UI.
-✔️ Backend
+- Backend
 Node, Python, Java, C#
-✔️ DB
+- DB
 MySQL, Firebase, MongoDB, DynamoDB, RDBMS, PostgreSQL, Redis
-✔️ API
+- API
 Sendgrid v3, Twilio, Stripe, PaypaI, Recurely, Doordash, Postmates, Airhob, WebSockets, Zoom, Nexmo, Mailchimp, Squareup, Shopstagion, Podio, Amazon , EBay Inventory API, Google API(Map, googlesheet, Form).
-✔️ Other
+- Other
 AWS (EC2, S3, RDS, AWS Elastic Beanstalk, Lambda, CloudFront, CloudWatch, EventBridge, codePipeline), Azure, Docker, Kubernetes, Git.
 
 ### Mobile DEV
