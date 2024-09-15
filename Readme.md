@@ -13,7 +13,7 @@ Sendgrid v3, Twilio, Stripe, PaypaI, Recurely, Doordash, Postmates, Airhob, WebS
 - Other
 AWS (EC2, S3, RDS, AWS Elastic Beanstalk, Lambda, CloudFront, CloudWatch, EventBridge, codePipeline), Azure, Docker, Kubernetes, Git.
 
-### Mobile DEV
+### Mobile Dev
 - Languages: Swift, Objective-C, Java, Kotlin
 - Hybrid App Development: React Native, Flutter, Ionic
 - Frameworks & Tools: StoreKit, MapKit, Google Maps, Mapbox, In-App Purchases, Push Notifications, WebKit, GLKit, Core Data, Core ML, AV Kit, HealthKit
