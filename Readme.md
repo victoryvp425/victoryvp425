@@ -1,4 +1,3 @@
-# Senior Full Stack/React, Vue, Node, Python/8+ years
 ## Tech Stack
 
 ### Web Dev
