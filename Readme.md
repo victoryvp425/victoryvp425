@@ -1,7 +1,6 @@
-# Telegram
+# Contact me
 <hr>
+## Telegram
 @primecodo
-# Skype
-<hr>
-@primecodo
+## Skype
 live:.cid.4fdb28f4625b2fb8
