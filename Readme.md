@@ -18,12 +18,4 @@ AWS (EC2, S3, RDS, AWS Elastic Beanstalk, Lambda, CloudFront, CloudWatch, EventB
 - Frameworks & Tools: StoreKit, MapKit, Google Maps, Mapbox, In-App Purchases, Push Notifications, WebKit, GLKit, Core Data, Core ML, AV Kit, HealthKit
 - Databases: MySQL, Firebase, MongoDB, DynamoDB, RDBMS, PostgreSQL, Realm DB, Azure Cosmos DB
 - APIs: SendGrid v3, Twilio, Stripe, PayPal, Recurly, MirrorFly, PubNub, Agora, DoorDash, Postmates, Airhob, ActiveCampaign, HubSpot, Zoom, Nexmo, Mailchimp, SquareUp, ShopStagion, Podio, Zoho CRM, NetSuite CRM, Amazon, eBay Inventory API, WordPress Codex API, Google APIs (Maps, Google Sheets, Forms, Classroom)
-  
-## Telegram
-@primecodo
 
-## Skype
-live:.cid.4fdb28f4625b2fb8
-
-## Discord
-supertodev
