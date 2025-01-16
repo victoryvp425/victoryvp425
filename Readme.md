@@ -4,7 +4,7 @@
 - Frontend: 
 React, Vue, Typescript, Javascript, Next.js, Bootstrap, MUI, Metronic UI, semantic UI.
 - Backend: 
-Node, Python, Java, C#
+Node, Python, C#
 - DB: 
 MySQL, Firebase, MongoDB, DynamoDB, RDBMS, PostgreSQL, Redis
 - API: 
@@ -13,7 +13,7 @@ Sendgrid v3, Twilio, Stripe, PaypaI, Recurely, Doordash, Postmates, Airhob, WebS
 AWS (EC2, S3, RDS, AWS Elastic Beanstalk, Lambda, CloudFront, CloudWatch, EventBridge, codePipeline), Azure, Docker, Kubernetes, Git.
 
 ### Mobile Dev
-- Languages: Swift, Objective-C, Java, Kotlin
+- Languages: JavaScript, Dart
 - Hybrid App Development: React Native, Flutter, Ionic
 - Frameworks & Tools: StoreKit, MapKit, Google Maps, Mapbox, In-App Purchases, Push Notifications, WebKit, GLKit, Core Data, Core ML, AV Kit, HealthKit
 - Databases: MySQL, Firebase, MongoDB, DynamoDB, RDBMS, PostgreSQL, Realm DB, Azure Cosmos DB
