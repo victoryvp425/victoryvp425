@@ -1,6 +1,6 @@
 ## Tech Stack
 
-### Web Dev
+### Senior Full Stack Dev
 - Frontend: 
 React, Vue, Next.js, Nuxt.js, Angular, Svelte, Typescript, Javascript, TailwindCSS, AntD, Chakra UI, Vuetify, Bootstrap, MUI, Metronic UI, semantic UI.
 - Backend: 
